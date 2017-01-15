@@ -1,0 +1,54 @@
+
+
+html {
+  color: #666;
+
+}
+
+.panel-container {
+
+}
+
+
+.panel {
+  width: 100vw;
+  height: 100vh;
+}
+
+.left-panel {
+}
+
+.center-panel {
+}
+
+.right-panel {
+}
+
+
+
+
+header {
+  padding: 10px;
+  background-color: #f9f9f9;
+  border-bottom: 1px solid #888;
+}
+
+h1 {
+  margin: 0;
+  color: #666;
+  text-align: center;
+  font-weight: normal;
+  font-size: 1.2em;
+}
+
+.main-drink-button {
+  background-color: #ddd;
+  margin: 10px;
+  padding: 20px 16px;
+  border-radius: 10px;
+}
+
+.main-drink-button-name {
+  margin: 0;
+  font-weight: normal;
+}
